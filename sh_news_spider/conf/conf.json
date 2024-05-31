@@ -1,10 +1,10 @@
 {
 "access_key_id": "LTAIil8pnvXjF9El",
 "access_key_secret": "zUMQ0bNrdiLqNUzhpUlQlRzS638AwZ",
-"bucket_name": "mmb-toutiao",
-"endpoint": "http://oss-cn-shanghai.aliyuncs.com",
-"oss_img_path": "toutiaoImage",
-"mongodb_conn": {"name": "mongodb://db51.mmbang.me:27017"},
+"bucket_name": "",
+"endpoint": "",
+"oss_img_path": "",
+"mongodb_conn": {"name": ""},
 "logs_path": "D://test_logs",
 "imgs_path": "D://images"
 }
